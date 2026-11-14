@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "pooja",
+      "email": "npooja2944@gmail.com",
+      "id": "7eFEPlEf1s4"
+    },
+    {
+      "name": "Arun",
+      "email": "Arun@gmail.com",
+      "id": "wR7VCjbDbV0"
+    },
+    {
+      "name": "priya",
+      "email": "priya@gmail.com",
+      "id": "lMiLAgmhQpU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
